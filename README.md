@@ -33,6 +33,7 @@ This bot was used to implement custom features for the SPUD community discord ch
 * asyncio
 * SQLalchemy
 * pip3 (to install dependencies)
+* Some stuff added after initially writing this document. Just run the codebase and you'll find out I suppose, heh.
 
 ### Installing dependencies
 To install depencies, make sure you have pip installed and it is callable from terminal.
