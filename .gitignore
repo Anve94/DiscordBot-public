@@ -1,0 +1,8 @@
+__pycache__/
+key.py
+github.py
+command_log
+*.out
+database/
+command_log
+*.swp
