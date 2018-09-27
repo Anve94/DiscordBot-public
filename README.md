@@ -2,6 +2,7 @@
 
 ## Disclaimer
 This project has been discontinued. Some API keys required to run this software were removed from the source code.
+Furthermore, this was a hobby project. Very little effort was made to make the codebase readable or maintainable.
 Source code is provided as-is. Use at your own risk. Do not contact me in any way if you are unable to run this software.
 I will not help you set it up. Channel ID's, discord ID's and names were removed from the sourcecode where applicable.
 Running a single hosted copy of this software to service multiple discord servers breaks the code.
